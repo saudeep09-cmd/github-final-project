@@ -1,0 +1,1 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome (from https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/blob/master/CONTRIBUTING.md) as part of project
